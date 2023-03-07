@@ -15,6 +15,8 @@ sudo apt install docker.io
 
 go to directory download. # on my case my directory download file on Download
 
+cd Download
+
 sudo apt install $PWD/docker-desktop-ce-cli.deb # on my case docker-ce-cli named docker-ce-cli.deb
 
 sudo apt install $PWD/docker-desktop.deb # on my case docker-desktop named docker-desktop.deb 
